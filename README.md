@@ -25,7 +25,7 @@ URLs
 Passo para rodar a API.
 
 1. Entre na pasta **`frontend`**
-2. Rodar o comando **`docker-compose up -d --build`** no terminal
+2. Rodar o comando **`npm run dev`** ou **`yarn dev`** no terminal
 
 URLs
 
